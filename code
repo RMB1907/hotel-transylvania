@@ -1,4 +1,4 @@
-[14:09, 11/8/2024] Renee: #include <stdio.h>
+#include <stdio.h>
 #include<stdlib.h>
     struct hotel {
         int room_no[20];
